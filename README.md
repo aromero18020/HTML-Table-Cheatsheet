@@ -1,6 +1,6 @@
 #HTML Tables Cheatsheet
 > CodeCademy's Challenge Project Build Your Own Cheatsheet.
-> Live:
+> Live: https://aromero18020.github.io/HTML-Table-Cheatsheet/
 
 ## Table of Contents
 * [General Info](#general-information)
